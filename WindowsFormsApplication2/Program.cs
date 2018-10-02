@@ -17,7 +17,7 @@ namespace WindowsFormsApplication2
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frm1());
+            Application.Run(new QuanlyCSDL());
         }
     }
 }

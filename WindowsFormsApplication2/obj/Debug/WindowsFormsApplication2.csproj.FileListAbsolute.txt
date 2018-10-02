@@ -11,3 +11,11 @@ C:\Users\phanthanh\documents\visual studio 2015\Projects\WindowsFormsApplication
 C:\Users\phanthanh\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\.netexample\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
 C:\Users\phanthanh\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\.netexample\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
 C:\Users\phanthanh\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\.netexample\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\phanthanh\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\.netexample\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\phanthanh\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\.netexample\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\phanthanh\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\.netexample\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\phanthanh\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\.netexample\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\phanthanh\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\.netexample\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.View.Login.resources
+C:\Users\phanthanh\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\.netexample\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.View.frm2.resources
+C:\Users\phanthanh\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\.netexample\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\phanthanh\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\.netexample\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.View.QuanlyCSDL.resources

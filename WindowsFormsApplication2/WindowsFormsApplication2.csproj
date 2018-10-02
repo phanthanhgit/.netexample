@@ -59,17 +59,23 @@
     <Compile Include="Model\sachDAO.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="View\frm1.cs">
+    <Compile Include="View\Login.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\frm1.Designer.cs">
-      <DependentUpon>frm1.cs</DependentUpon>
+    <Compile Include="View\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
     </Compile>
     <Compile Include="View\frm2.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="View\frm2.Designer.cs">
       <DependentUpon>frm2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\QuanlyCSDL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\QuanlyCSDL.Designer.cs">
+      <DependentUpon>QuanlyCSDL.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -80,11 +86,14 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="View\frm1.resx">
-      <DependentUpon>frm1.cs</DependentUpon>
+    <EmbeddedResource Include="View\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="View\frm2.resx">
       <DependentUpon>frm2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\QuanlyCSDL.resx">
+      <DependentUpon>QuanlyCSDL.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
