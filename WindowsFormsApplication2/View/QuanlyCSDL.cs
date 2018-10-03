@@ -13,22 +13,65 @@ namespace WindowsFormsApplication2.View
     public partial class QuanlyCSDL : Form
     {
         private Login login;
-        private string noti;
+        private string sv;
+        private string user;
+        private string pass;
+        private string db;
+
         public Login Login
         {
             set { login = value; }
         }
 
-        public string Noti
+        public string Sv
         {
             get
             {
-                return noti;
+                return sv;
             }
 
             set
             {
-                noti = value;
+                sv = value;
+            }
+        }
+
+        public string User
+        {
+            get
+            {
+                return user;
+            }
+
+            set
+            {
+                user = value;
+            }
+        }
+
+        public string Pass
+        {
+            get
+            {
+                return pass;
+            }
+
+            set
+            {
+                pass = value;
+            }
+        }
+
+        public string Db
+        {
+            get
+            {
+                return db;
+            }
+
+            set
+            {
+                db = value;
             }
         }
 
@@ -36,7 +79,7 @@ namespace WindowsFormsApplication2.View
         {
             InitializeComponent();
         }
-
+ 
         private void QuanlyCSDL_Load(object sender, EventArgs e)
         {
 
@@ -50,6 +93,7 @@ namespace WindowsFormsApplication2.View
             }
             login.Quanly = this;
             login.ShowDialog();
+            newconnect.Visible = false;
         }
     }
 }

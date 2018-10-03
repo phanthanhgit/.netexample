@@ -37,7 +37,10 @@ namespace WindowsFormsApplication2.View
 
                 dc.KetNoi(sv, db, userid, pass);
                 MessageBox.Show("Kết nối thành công");
-
+                quanly.Sv = sv;
+                quanly.User = userid;
+                quanly.Pass = pass;
+                quanly.Db = db;
                 this.Hide();
             } catch(Exception tt)
             {
