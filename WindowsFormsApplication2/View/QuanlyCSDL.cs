@@ -93,7 +93,6 @@ namespace WindowsFormsApplication2.View
             }
             login.Quanly = this;
             login.ShowDialog();
-            newconnect.Visible = false;
         }
     }
 }
